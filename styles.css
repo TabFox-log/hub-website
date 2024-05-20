@@ -34,6 +34,7 @@ header {
 
 main {
     flex: 1;
+    backdrop-filter: blur(15px);
 }
 
 footer {
